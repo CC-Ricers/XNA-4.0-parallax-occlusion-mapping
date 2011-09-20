@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\ParticleEffect.fx</Source>
+      <Name>Effects\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Effects\ParticleEffect.xnb</Output>
+      <Time>2011-09-12T20:19:43.6191406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Textured.fx</Source>
+      <Name>Effects\Textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Effects\Textured.xnb</Output>
+      <Time>2011-09-12T20:35:50.6113281-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\kupol.X</Source>
+      <Name>Models\Kupol\kupol</Name>
+      <Importer>XImporter</Importer>
+      <Processor>CustomModel</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\kupol.xnb</Output>
+      <Time>2008-05-10T14:32:45.1224-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Kupol\kupol_0.xml</Key>
+        <Value>2011-09-17T00:27:02.9238281-05:00</Value>
+      </Dependency>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Effects\Textured.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_H_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_N_0.xnb</Request>
+      <Request>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_H_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fuente.spritefont</Source>
+      <Name>Fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Fuente.xnb</Output>
+      <Time>2008-05-11T13:07:49.6014-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\kupol.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Kupol\kupol_0.xml</Output>
+      <Time>2008-05-10T14:32:45.1224-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_0.xnb</Output>
+      <Time>2008-05-07T19:35:55.1428-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY1_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_N_0.xnb</Output>
+      <Time>2008-05-07T21:05:53.3648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY1_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY1_H_0.xnb</Output>
+      <Time>2008-05-07T21:06:02.6668-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_0.xnb</Output>
+      <Time>2008-05-07T19:35:20.1688-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY3_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_N_0.xnb</Output>
+      <Time>2008-05-07T21:09:37.9838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY3_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY3_H_0.xnb</Output>
+      <Time>2008-05-07T21:09:51.0458-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STONE18.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_0.xnb</Output>
+      <Time>2008-05-07T19:36:37.5418-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STONE18_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_N_0.xnb</Output>
+      <Time>2008-05-07T21:11:48.5598-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STONE18_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STONE18_H_0.xnb</Output>
+      <Time>2008-05-07T21:11:42.0548-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\CRACKEDP.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_0.xnb</Output>
+      <Time>2008-05-12T12:11:57.2003446-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\CRACKEDP_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_N_0.xnb</Output>
+      <Time>2008-05-12T12:11:53.7059446-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\CRACKEDP_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\CRACKEDP_H_0.xnb</Output>
+      <Time>2008-05-12T12:12:07.1531446-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\SUNSET90.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_0.xnb</Output>
+      <Time>2008-05-07T19:34:26.4238-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\SUNSET90_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_N_0.xnb</Output>
+      <Time>2008-05-07T21:12:43.1048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\SUNSET90_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\SUNSET90_H_0.xnb</Output>
+      <Time>2008-05-07T21:12:35.7718-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_0.xnb</Output>
+      <Time>2008-05-07T19:35:20.1718-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY2_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_N_0.xnb</Output>
+      <Time>2008-05-07T21:08:56.6388-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\MASONRY2_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\MASONRY2_H_0.xnb</Output>
+      <Time>2008-05-07T21:09:04.8478-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STO010.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_0.xnb</Output>
+      <Time>2008-05-07T19:39:10.6188-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STO010_N.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_N_0.xnb</Output>
+      <Time>2008-05-07T21:10:35.2308-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Kupol\STO010_H.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\Models\Kupol\STO010_H_0.xnb</Output>
+      <Time>2008-05-07T21:10:59.0958-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\POM4Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\POM4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\ParallaxOcclusionMapping\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\bin\x86\Debug\Extra Textures Processor.dll</Key>
+        <Value>2011-09-17T00:27:00.2470703-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-08T03:37:30.7734375-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

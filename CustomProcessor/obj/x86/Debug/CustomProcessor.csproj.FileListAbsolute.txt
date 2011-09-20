@@ -1,0 +1,5 @@
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\bin\x86\Debug\Extra Textures Processor.dll
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\bin\x86\Debug\Extra Textures Processor.pdb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\obj\x86\Debug\Extra Textures Processor.dll
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\others\POM31\CustomProcessor\obj\x86\Debug\Extra Textures Processor.pdb
